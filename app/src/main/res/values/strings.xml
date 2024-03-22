@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">OpenData0305</string>
+
+    <!-- 在這裡插入您的 string-array 元素 -->
+    <string-array name="areas_array">
+        <item>八里區</item>
+        <item>三芝區</item>
+        <item>三重區</item>
+        <item>三峽區</item>
+        <item>土城區</item>
+        <item>五股區</item>
+        <item>平溪區</item>
+        <item>中和區</item>
+        <item>永和區</item>
+        <item>石門區</item>
+        <item>石碇區</item>
+        <item>汐止區</item>
+        <item>坪林區</item>
+        <item>板橋區</item>
+        <item>林口區</item>
+        <item>金山區</item>
+        <item>泰山區</item>
+        <item>烏來區</item>
+        <item>貢寮區</item>
+        <item>淡水區</item>
+        <item>深坑區</item>
+        <item>新店區</item>
+        <item>新莊區</item>
+        <item>瑞芳區</item>
+        <item>萬里區</item>
+        <item>樹林區</item>
+        <item>雙溪區</item>
+        <item>蘆洲區</item>
+        <item>鶯歌區</item>
+
+        <!-- 在這裡添加更多的區域選項 -->
+    </string-array>
+</resources>
